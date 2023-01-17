@@ -11,5 +11,8 @@
 
 # В проекте используется:
 * Hibernate - для подключения к MySQL;
+* Spring ORM;
+* JSTL;
+* Javax persistance;
 * Maven;
 * Spring.
